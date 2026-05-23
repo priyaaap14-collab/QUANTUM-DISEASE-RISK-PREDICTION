@@ -1,0 +1,6 @@
+{
+  "name": "Quantum-Assisted Disease Risk Prediction System",
+  "description": "An advanced hybrid quantum-classical medical risk assessment dashboard using an 8-qubit Variational Quantum Classifier (VQC) simulation and Gemini AI clinical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
