@@ -1,20 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Quantum-Assisted Disease Risk Prediction System
+The Quantum-Assisted Disease Risk Prediction System is a production-grade, hybrid classical-quantum medical platform designed to advance UN SDG 3 (Good Health & Well-being) by making preventative medicine proactive and deeply personalized.
 
-# Run and deploy your AI Studio app
+Instead of evaluating patient symptoms line-by-line like a traditional classical checklist, the system uses an 8-qubit Variational Quantum Classifier (VQC) to encode 8 core biomarkers (like blood pressure, BMI, and glucose) into a single fluid quantum wave. By utilizing CNOT entanglement layers, it physically links these symptoms together inside the processor—evaluating 256 distinct symptom combinations simultaneously to spot the hidden, compounding health risks that traditional AI entirely misses.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/a17882a8-0c9b-4c8d-a16a-044be2049654
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The platform pairs this high-performance quantum engine with Google Gemini AI to instantly translate complex quantum probability waves into a readable 3-sentence biochemical summary and a 4-tier personalized clinical action plan. Designed for flawless real-world deployment, the application features a stunning, dark-mode dashboard built with React 19 and Tailwind CSS v4, backed by a 100% offline local fallback engine that ensures the system remains fully functional even without an internet connection.
